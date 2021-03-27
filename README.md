@@ -2,4 +2,8 @@
 Neural Style Transfer from scratch in PyTorch.
 Also used pretrained model from Tensorflow Hub.
 
-![](https://github.com/Saranga7/NST/blob/master/tensorflow_colab/rikee_monet.jpg)
+![](https://github.com/Saranga7/NST/blob/master/tensorflow_colab/monalisa_gom.jpg)
+![](https://github.com/Saranga7/NST/blob/master/tensorflow_colab/saranga_monet.jpg)
+![](https://github.com/Saranga7/NST/blob/master/tensorflow_colab/rikee_dali.jpg)
+![](https://github.com/Saranga7/NST/blob/master/tensorflow_colab/monalisa_monet.jpg)
+![](https://github.com/Saranga7/NST/blob/master/tensorflow_colab/mriganka_starrynight.jpg)
